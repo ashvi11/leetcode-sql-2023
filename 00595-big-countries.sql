@@ -1,4 +1,4 @@
-# very basic one
+# easy
 
 select name, population, area 
 from World 
