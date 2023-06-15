@@ -1,4 +1,5 @@
-#easy
+# easy
+# linkedin- 1
 
 select distinct author_id as id 
 from Views 
