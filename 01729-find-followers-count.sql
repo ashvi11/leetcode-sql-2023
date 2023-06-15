@@ -1,5 +1,5 @@
-#easy
-#tesla
+# easy
+# tesla- 1
 
 select user_id, count(distinct follower_id) as followers_count 
 from Followers 
