@@ -1,6 +1,6 @@
-#easy
-#amazon- 3
-#adobe- 2
+# easy
+# amazon- 3
+# adobe- 2
 
 select name 
 from Customer 
